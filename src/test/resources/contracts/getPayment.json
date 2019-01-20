@@ -1,0 +1,20 @@
+{
+  "creditorAccount": {
+    "iban": "NL66MOYO0000000001"
+  },
+  "creditorName": "Merchant123",
+  "debtorAccount": {
+    "iban": "NL66MOYO0000000002"
+  },
+  "instructedAmount": {
+    "currency": "EUR",
+    "value": 123.5
+  },
+  "paymentId": "27e90ee3-7ca1-46dd-a78b-50842da07c4b",
+  "remittanceInformationUnstructured": "Ref Number Merchant",
+  "tppName": "TPP name",
+  "internalStatus": "OPEN",
+  "tppNokRedirectUri": "https://www.tpp.com",
+  "tppRedirectUri": "https://www.tpp.com",
+  "transactionDateTimestamp": 1543408716815
+}
